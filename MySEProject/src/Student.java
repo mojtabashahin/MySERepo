@@ -2,8 +2,12 @@
 public class Student {
 	
 	private String name;
-	private String address;
+	private String program;
 	public void changeAddress()
+	{
+		
+	}
+	public void addNewProgram()
 	{
 		
 	}
